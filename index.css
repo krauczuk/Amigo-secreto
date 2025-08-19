@@ -1,0 +1,33 @@
+
+div{
+    color: rgb(36, 90, 36);
+    text-align: center;
+    
+}
+
+#img{
+    height: 170px;
+    width: 270px;
+}
+
+#nomes{
+    text-align: center;
+    border-radius: 15px;
+    height: 40px;
+}
+
+#enviar{
+    border-radius: 15px;
+    background-color: rgb(36, 90, 36);
+    width: 70px;
+    height: 40px;
+    color: azure;
+}
+
+#sortear{
+    border-radius: 15px;
+    background-color: rgb(36, 90, 36);
+    width: 150px;
+    height: 40px;
+    color: azure;
+}
